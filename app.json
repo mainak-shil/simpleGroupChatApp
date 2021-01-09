@@ -23,10 +23,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.mainak.chatApp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "A demo chat application where multiple users can chat in a group. Supported on both android and ios."
   }
 }
